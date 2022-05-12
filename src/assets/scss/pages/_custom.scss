@@ -36,7 +36,7 @@
 }
 .bar::-webkit-scrollbar-thumb {
   border-radius: 10px;
-  background-color: #ffeaed;
+  background-color: #EEc32a;
 }
 .textLeft::before {
   content: '';
@@ -47,7 +47,7 @@
   transform: translateX(-100%);
   position: absolute;
   border-top: 7px solid transparent;
-  border-right: 7px solid #ffeaed;
+  border-right: 7px solid #EEc32a;
   border-bottom: 7px solid transparent;
   border-left: 7px solid transparent;
 }
@@ -62,8 +62,8 @@
   border-top: 7px solid transparent;
   border-right: 7px solid transparent;
   border-bottom: 7px solid transparent;
-  border-left: 7px solid #ffeaed;
+  border-left: 7px solid #EEc32a;
 }
 .textBg {
-  background-color: #ffeaed;
+  background-color: #EEc32a;
 }

@@ -55,21 +55,21 @@
         </div>
         <!-- ---metatalk--- -->
         <section class="font-paytone text-primary">
-            <h2 class="text-danger">&MetaTalk</h2>
+            <h2 class="text-dark">&MetaTalk</h2>
         </section>
-        <main class="container bg-primary p-3 pb-5">
+        <main class="container bg-primary p-3 pb-7">
             <div class="row d-flex justify-content-center">
                 <div class="col-12 bg-white">
                     <div class="row border bg-white position-relative">
                         <ul id="maintext" class="col-12 bar border-primary"
                             style="overflow-y: auto; max-height: 230px; min-height: 230px;">
                             <!-- ----- -->
-                            <li class="d-flex justify-content-end pt-4 pb-3 position-relative">
+                            <li class="d-flex justify-content-end pt-4 pb-3 pe-2 position-relative">
                                 <div class="p-2 m-2 rounded-3 textBg textRight position-relative"
                                     style="max-width: 70%">午餐的黑胡椒豬肉掉到褲子上醬汁擦不掉</div>
                             </li>
                             <!-- ----- -->
-                            <li class="row d-flex justify-content-start pt-5 pb-3">
+                            <li class="row d-flex justify-content-start pt-5 pb-3 ps-2">
                                 <div class="col-3"
                                     style="width: 40px; height: 40px; background-color: rebeccapurple; border-radius: 50%;">
                                 </div>
@@ -80,12 +80,12 @@
                                 </div>
                             </li>
                             <!-- ----- -->
-                            <li class="d-flex justify-content-end pt-4 pb-3 position-relative">
+                            <li class="d-flex justify-content-end pt-4 pb-3 pe-2 position-relative">
                                 <div class=" p-2 m-2 rounded-3 textBg textRight position-relative"
                                     style="max-width: 70%">求推薦可以讓褲子reset的方法</div>
                             </li>
                             <!-- ----- -->
-                            <li class="row d-flex justify-content-start pt-5 pb-3">
+                            <li class="row d-flex justify-content-start pt-5 pb-3 ps-2">
                                 <div class="col-3"
                                     style="width: 40px; height: 40px; background-color: red; border-radius: 50%;">
                                 </div>
@@ -96,14 +96,14 @@
                                 </div>
                             </li>
                             <!-- ----- -->
-                            <li class="d-flex justify-content-end pt-4 pb-3 position-relative">
+                            <li class="d-flex justify-content-end pt-4 pb-3 pe-2 position-relative">
                                 <div class=" p-2 m-2 rounded-3 textBg textRight position-relative"
                                     style="max-width: 70%">(#`Д´)ﾉ</div>
                             </li>
                             <!-- ----- -->
                         </ul>
                         <div class="d-grid gap-2 position-absolute start-0 top-100 translate-middle ms-4"
-                            style="margin-top: 10px;">
+                            style="margin-top: 18px;">
                             <a class="btn position-absolute start-50 top-50" role="button">
                                 <span
                                     class="material-symbols-outlined position-absolute start-0 top-50 translate-middle text-white fs-2">
