@@ -55,10 +55,11 @@
                                 <router-link to="personal" class="mb-0 fw-bold">邊緣小杰</router-link>
                                 <small class="text-muted">2022/1/10 12:00</small>
                             </div>
-                            <div class="ms-auto"><span class="material-symbols-outlined">more</span>
+                            <div class="ms-auto d-flex">
+                                <img src="../assets/img/edit.png" class="d-block m-auto mx-2" alt="">
+                                <img src="../assets/img/share.png" class="d-block m-auto mx-2" alt="">
+                                <img src="../assets/img/trash.png" class="d-block m-auto mx-2" alt="">
                             </div>
-                            <div class="ms-3"><span class="material-symbols-outlined">share</span></div>
-                            <div class="ms-3"><span class="material-symbols-outlined">delete_forever</span></div>
                         </div>
                         <form>
                             <div class="form-group mb-3">
@@ -123,8 +124,9 @@
                                             <router-link to="personal" class="mb-0 fw-bold">希琳</router-link>
                                             <small class="text-muted">2022/1/11 10:00</small>
                                         </div>
-                                        <div class="ms-auto"><span class="material-symbols-outlined">more</span></div>
-                                        <div class="ms-3"><span class="material-symbols-outlined">delete_forever</span>
+                                        <div class="ms-auto d-flex">
+                                            <img src="../assets/img/edit.png" class="d-block m-auto mx-2" alt="">
+                                            <img src="../assets/img/trash.png" class="d-block m-auto mx-2" alt="">
                                         </div>
                                     </div>
                                     <div class="input-group mb-3">
@@ -142,8 +144,9 @@
                                             <router-link to="personal" class="mb-0 fw-bold">希琳</router-link>
                                             <small class="text-muted">2022/1/11 10:00</small>
                                         </div>
-                                        <div class="ms-auto"><span class="material-symbols-outlined">more</span></div>
-                                        <div class="ms-3"><span class="material-symbols-outlined">delete_forever</span>
+                                        <div class="ms-auto d-flex">
+                                            <img src="../assets/img/edit.png" class="d-block m-auto mx-2" alt="">
+                                            <img src="../assets/img/trash.png" class="d-block m-auto mx-2" alt="">
                                         </div>
                                     </div>
                                     <p class="m-0 fw-bold">真的～我已經準備冬眠了</p>
@@ -156,8 +159,9 @@
                                             <router-link to="personal" class="mb-0 fw-bold">波吉</router-link>
                                             <small class="text-muted font-xs">2022/1/11 10:00</small>
                                         </div>
-                                        <div class="ms-auto"><span class="material-symbols-outlined">more</span></div>
-                                        <div class="ms-3"><span class="material-symbols-outlined">delete_forever</span>
+                                        <div class="ms-auto d-flex">
+                                            <img src="../assets/img/edit.png" class="d-block m-auto mx-2" alt="">
+                                            <img src="../assets/img/trash.png" class="d-block m-auto mx-2" alt="">
                                         </div>
                                     </div>
                                     <p class="m-0 fw-bold">會嗎？我沒穿衣服都不覺得冷</p>
@@ -173,10 +177,11 @@
                                 <router-link to="personal" class="mb-0 fw-bold">邊緣小杰</router-link>
                                 <small class="text-muted">2022/1/10 12:00</small>
                             </div>
-                            <div class="ms-auto"><span class="material-symbols-outlined">more</span>
+                            <div class="ms-auto d-flex">
+                                <img src="../assets/img/edit.png" class="d-block m-auto mx-2" alt="">
+                                <img src="../assets/img/share.png" class="d-block m-auto mx-2" alt="">
+                                <img src="../assets/img/trash.png" class="d-block m-auto mx-2" alt="">
                             </div>
-                            <div class="ms-3"><span class="material-symbols-outlined">share</span></div>
-                            <div class="ms-3"><span class="material-symbols-outlined">delete_forever</span></div>
                         </div>
                         <p class="fw-bold">外面看起來就超冷.... 我決定回被窩繼續睡....>.&lt;</p>
                         <!-- ---tag--- -->
@@ -226,8 +231,9 @@
                                             <router-link to="personal" class="mb-0 fw-bold">希琳</router-link>
                                             <small class="text-muted">2022/1/11 10:00</small>
                                         </div>
-                                        <div class="ms-auto"><span class="material-symbols-outlined">more</span></div>
-                                        <div class="ms-3"><span class="material-symbols-outlined">delete_forever</span>
+                                        <div class="ms-auto d-flex">
+                                            <img src="../assets/img/edit.png" class="d-block m-auto mx-2" alt="">
+                                            <img src="../assets/img/trash.png" class="d-block m-auto mx-2" alt="">
                                         </div>
                                     </div>
                                     <p class="m-0 fw-bold">真的～我已經準備冬眠了</p>
@@ -240,8 +246,9 @@
                                             <router-link to="personal" class="mb-0 fw-bold">波吉</router-link>
                                             <small class="text-muted font-xs">2022/1/11 10:00</small>
                                         </div>
-                                        <div class="ms-auto"><span class="material-symbols-outlined">more</span></div>
-                                        <div class="ms-3"><span class="material-symbols-outlined">delete_forever</span>
+                                        <div class="ms-auto d-flex">
+                                            <img src="../assets/img/edit.png" class="d-block m-auto mx-2" alt="">
+                                            <img src="../assets/img/trash.png" class="d-block m-auto mx-2" alt="">
                                         </div>
                                     </div>
                                     <p class="m-0 fw-bold">會嗎？我沒穿衣服都不覺得冷</p>
@@ -257,10 +264,11 @@
                                 <router-link to="personal" class="mb-0 fw-bold">米卡莎</router-link>
                                 <small class="text-muted">2022/1/10 12:00</small>
                             </div>
-                            <div class="ms-auto"><span class="material-symbols-outlined">more</span>
+                            <div class="ms-auto d-flex">
+                                <img src="../assets/img/edit.png" class="d-block m-auto mx-2" alt="">
+                                <img src="../assets/img/share.png" class="d-block m-auto mx-2" alt="">
+                                <img src="../assets/img/trash.png" class="d-block m-auto mx-2" alt="">
                             </div>
-                            <div class="ms-3"><span class="material-symbols-outlined">share</span></div>
-                            <div class="ms-3"><span class="material-symbols-outlined">delete_forever</span></div>
                         </div>
                         <p>搶到想要的 NFT 啦！ya~~</p>
                         <!-- ---tag--- -->
@@ -311,8 +319,9 @@
                                             <router-link to="personal" class="mb-0 fw-bold">希琳</router-link>
                                             <small class="text-muted">2022/1/11 10:00</small>
                                         </div>
-                                        <div class="ms-auto"><span class="material-symbols-outlined">more</span></div>
-                                        <div class="ms-3"><span class="material-symbols-outlined">delete_forever</span>
+                                        <div class="ms-auto d-flex">
+                                            <img src="../assets/img/edit.png" class="d-block m-auto mx-2" alt="">
+                                            <img src="../assets/img/trash.png" class="d-block m-auto mx-2" alt="">
                                         </div>
                                     </div>
                                     <p class="m-0 fw-bold">賺爛了~~賺爛了~~</p>
@@ -325,8 +334,9 @@
                                             <router-link to="personal" class="mb-0 fw-bold">波吉</router-link>
                                             <small class="text-muted font-xs">2022/1/11 10:00</small>
                                         </div>
-                                        <div class="ms-auto"><span class="material-symbols-outlined">more</span></div>
-                                        <div class="ms-3"><span class="material-symbols-outlined">delete_forever</span>
+                                        <div class="ms-auto d-flex">
+                                            <img src="../assets/img/edit.png" class="d-block m-auto mx-2" alt="">
+                                            <img src="../assets/img/trash.png" class="d-block m-auto mx-2" alt="">
                                         </div>
                                     </div>
                                     <p class="m-0 fw-bold">薛一波</p>
@@ -342,10 +352,11 @@
                                 <router-link to="personal" class="mb-0 fw-bold">波吉</router-link>
                                 <small class="text-muted">2022/1/10 12:00</small>
                             </div>
-                            <div class="ms-auto"><span class="material-symbols-outlined">more</span>
+                            <div class="ms-auto d-flex">
+                                <img src="../assets/img/edit.png" class="d-block m-auto mx-2" alt="">
+                                <img src="../assets/img/share.png" class="d-block m-auto mx-2" alt="">
+                                <img src="../assets/img/trash.png" class="d-block m-auto mx-2" alt="">
                             </div>
-                            <div class="ms-3"><span class="material-symbols-outlined">share</span></div>
-                            <div class="ms-3"><span class="material-symbols-outlined">delete_forever</span></div>
                         </div>
                         <p class="fw-bold">我一定要成為很棒棒的國王！</p>
                         <!-- ---tag--- -->
@@ -396,8 +407,9 @@
                                             <router-link to="personal" class="mb-0 fw-bold">希琳</router-link>
                                             <small class="text-muted">2022/1/11 10:00</small>
                                         </div>
-                                        <div class="ms-auto"><span class="material-symbols-outlined">more</span></div>
-                                        <div class="ms-3"><span class="material-symbols-outlined">delete_forever</span>
+                                        <div class="ms-auto d-flex">
+                                            <img src="../assets/img/edit.png" class="d-block m-auto mx-2" alt="">
+                                            <img src="../assets/img/trash.png" class="d-block m-auto mx-2" alt="">
                                         </div>
                                     </div>
                                     <p class="m-0 fw-bold">清~~~人~~~</p>
